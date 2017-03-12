@@ -13,7 +13,7 @@
 		* Create a repository on github [link](https://github.com) by click `+ New Repository`
 		* Public repository is free, private is toll
 		* check the `Initialize this repository with a README`
-		* open Mac Terminal and git command such as `git clone https://github.com/quesbook/DemoTom.git`
+		* open Mac Terminal and git command such as `git clone https://github.com/zwheui/zwheui.github.io`
 	* Others
 		* `Issues` can log different kind of the information by choose the `labels` on create a new issue page
 		* Team work can be done by using `Branch` function
@@ -24,7 +24,7 @@
 * Command
 	* git config 
 		* git config --global user.name "Tom Zhu"
-		* git config --global user.email "tom.zhu@quesbook.com"
+		* git config --global user.email "zwheui@gmail.com"
 		* git config user.name git config user.email
 	* git clone [git link]
 	* git status
