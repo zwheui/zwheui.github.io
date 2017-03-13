@@ -2,7 +2,9 @@
 ### Notes Github
 ================
 ##### Work on Github, here is a [link](http://pcottle.github.io/learnGitBranching/) to learn more on Git
-
+```sql
+SELEct * from table
+```
 <a name="basic"/>
 * Basic Knowlege
 	* Github host the repository for us
